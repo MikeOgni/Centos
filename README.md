@@ -4,4 +4,4 @@
 ### SSH
 Installazione servizi SSH:
    
-1. 'yum install sshd'
+1. `yum install sshd`
