@@ -203,7 +203,7 @@ modificare o aggiungere le seguenti righe:
   allow_writeable_chroot=YES
   use_localtime=YES
 ```
-Testare il funzionamento inserendo nell'url ***ftp://ip*** oppure con filezilla oppure scrivendo ***ftp localhost*** da macchina
+Testare il funzionamento inserendo nell'url ***ftp://ip*** oppure con [filezilla](https://filezilla-project.org/) oppure scrivendo ***ftp localhost*** da macchina
 ## Wordpress
 
 Eseguire i seguenti comandi
